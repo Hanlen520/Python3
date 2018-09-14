@@ -1,0 +1,1 @@
+([('jsq', '/Users/xiaoweiyu/PycharmProjects/untitled/dist/jsq', 'EXECUTABLE')],)
